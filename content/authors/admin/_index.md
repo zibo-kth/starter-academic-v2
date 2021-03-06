@@ -51,7 +51,7 @@ social:
   link: https://scholar.google.se/citations?user=OZhmCYwAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/zibo-kth
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
