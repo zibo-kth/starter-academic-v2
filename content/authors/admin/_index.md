@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include acoustic metamaterials, vibroacoustics, noise and vibration.
 
 # Interests to show in About widget
-research interests:
+interests:
 - Vibroacoustics
 - Acoustic Metamaterials
 - Noise and Vibration
