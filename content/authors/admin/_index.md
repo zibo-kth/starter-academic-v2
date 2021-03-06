@@ -6,7 +6,7 @@ title: Zibo LIU
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. in Acoustics
 
 # Organizations/Affiliations to show in About widget
 organizations:
