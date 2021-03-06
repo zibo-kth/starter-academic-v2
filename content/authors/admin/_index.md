@@ -10,17 +10,17 @@ role: Ph.D. in Acoustics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: KTH Royal Institute of Technology
+  url: https://www.kth.se/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include acoustic metamaterials, vibroacoustics, noise and vibration.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Vibroacoustics
+- Acoustic Metamaterials
+- Noise and Vibration
 
 # Education to show in About widget
 education:
