@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zibo LIU
+title: Zibo Liu
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,10 @@ bio: My research interests include acoustic metamaterials, vibroacoustics, noise
 interests:
 - Vibroacoustics
 - Acoustic Metamaterials
-- Noise and Vibration
+- Technologies for NVH control
+- Machine Learning
+- Gym
+- Piano
 
 # Education to show in About widget
 education:
