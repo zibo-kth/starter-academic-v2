@@ -88,22 +88,22 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 
 ---
-title: "Broadband locally resonant metamaterial sandwich plate for improved noise insulation in the coincidence region"
+title: "Investigation of"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Romain Rumpler
-- Leping Feng
+- Romain
+- Leping
 
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2018-09-01T00:00:00Z"
+date: "2019-09-01T00:00:00Z"
 doi: "10.1016/j.compstruct.2018.05.033"
 
 # Schedule page publish date (NOT publication's date).
