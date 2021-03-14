@@ -75,6 +75,7 @@ experience:
     date_end: '2019-06-30'
     description: |2-
         Responsibilities include:
-            * Research on the acoustic properties of metamaterials in order to develop the associated applications for sound insulation engineering; 
-            * Laboratory assistant at Marcus Wallenberg Laboratory for Sound and Vibration Research(MWL).
+
+        * Research on the acoustic properties of metamaterials in order to develop the associated applications for sound insulation engineering; 
+        * Laboratory assistant at Marcus Wallenberg Laboratory for Sound and Vibration Research(MWL).
 ---
