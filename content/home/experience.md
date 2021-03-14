@@ -46,7 +46,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Investigation of tribological behaviour of a diesel engine.
+        * Investigation of tribological behaviour of a diesel engine;
         * Test bench design for engine leak-down test.
 
     #description: Investigation of tribological behaviour of a diesel engine and engine sealing project.
