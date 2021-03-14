@@ -1,24 +1,26 @@
 ---
-title: "Broadband locally resonant metamaterial sandwich plate for improved noise insulation in the coincidence region"
+title: "Suppression of the vibration and sound radiation of a sandwich plate via periodic design"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Romain Rumpler
+- Yubao Song
 - Leping Feng
+- admin
+- Jihong Wen
+- Dianlong Yu
 
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2018-01-23T00:00:00Z"
-doi: "10.1016/j.compstruct.2018.05.033"
+date: "2018-05-31T00:00:00Z"
+doi: "10.1016/j.ijmecsci.2018.10.055"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-05-07T00:00:00Z"
+publishDate: "2018-10-21T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,13 +29,14 @@ publishDate: "2018-05-07T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Composite Structures*
-publication_short: In *Composite Structures*
+publication: In *International Journal of Mechanical Sciences*
+publication_short: In *Int. J. Mech. Sci.*
 
-abstract: A new design for locally resonant metamaterial sandwich plates is proposed in this paper for noise insulation engineering applications. A systematic method to tune the resonance frequency of local resonators is developed in order to overcome the coincidence phenomenon. This method, based on an impedance approach, additionally explains the ability to overcome the antiresonance associated with these local resonators. The influence of the radiated sound from these local resonators is further investigated with finite element (FE) models, particularly in connection with the sound transmission loss (STL) of the resulting metamaterial sandwich plates. The new sandwich design proposed emerges from these analyses, encapsulating the resonators inside the core material. In addition to overcoming the coincidence effect and limiting the noise radiation by the resonators, the proposed design allows to improve the mass ratio of the metamaterial sandwich structure. This, in turn, enables to broaden the working frequency band independently of the material adopted for the resonator. The proposed metamaterial sandwich plate thus combines improved acoustic insulation properties, while maintaining the lightweight nature of the sandwich plate and its good static properties.
+abstract: This paper investigates the suppression of vibration and sound radiation of a sandwich plate through the use of periodic design. A periodic sandwich plate is constructed and its dispersion relation is calculated. The vibration and sound radiation properties of the periodic sandwich plate are studied. Via the comparison of the periodic and bare sandwich plate, the effects of the periodic design on the vibration and sound radiation are analysed. Further, to know the sound radiation properties better, sound radiation efficiency of the periodic and bare sandwich plates is compared. In addition, the effects of the boundary conditions on the properties of the periodic sandwich plate are analysed. The numerical results demonstrate that the vibration and sound radiation are greatly suppressed over the stop band of the periodic sandwich plate. The suppression can also be obtained in part of pass bands. It is also shown that the periodic design can be an effective method for the reduction of the sound radiation efficiency. The suppression for the vibration and sound is greater than that caused by only increasing the mass of the plate in the designing frequency range.
+
 
 # Summary. An optional shortened abstract.
-summary: A new design for locally resonant metamaterial sandwich plates is proposed in this paper for noise insulation engineering applications. The proposed metamaterial sandwich plate combines improved acoustic insulation properties, while maintaining the lightweight nature of the sandwich plate and its good static properties.
+summary: Effects of periodic design on vibration and sound of a sandwich plate are studied. Reasons for the improvement on acoustic properties are expounded. Effects of boundary conditions on vibration and sound radiation are analysed. Vibration, sound radiation and radiation efficiency are reduced in multi ranges.
 
 tags: []
 
@@ -45,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'publication/liu2018broadband/pdf.pdf'
+#url_pdf: 'publication/liu2018broadband/pdf.pdf'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
