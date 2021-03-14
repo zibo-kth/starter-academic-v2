@@ -1,5 +1,5 @@
 ---
-title: "Investigation of the sound transmission through a locally resonant metamaterial cylindrical shell in the ring frequency region"
+title: "Design of soundproof panels via metamaterial concept"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
