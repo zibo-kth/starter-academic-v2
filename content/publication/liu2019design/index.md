@@ -1,20 +1,18 @@
 ---
-title: "Investigation of the sound transmission through a locally resonant metamaterial cylindrical shell in the ring frequency region"
+title: "Design of soundproof panels via metamaterial concept"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Romain Rumpler
-- Leping Feng
 
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2019-03-01T00:00:00Z"
+date: "2019-03-27T00:00:00Z"
 doi: "10.1063/1.5081134"
 
 # Schedule page publish date (NOT publication's date).
