@@ -14,7 +14,7 @@ organizations:
   url: https://www.kth.se/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include acoustic metamaterials, vibroacoustics, noise and vibration.
+bio: My research interests include acoustic metamaterials, vibroacoustics, noise and vibration control.
 
 # Interests to show in About widget
 interests:
@@ -23,7 +23,7 @@ interests:
 - Waves
 - Technologies for *NVH* control
 - Machine Learning
-- Gym
+- Work out
 - Piano
 
 # Education to show in About widget
@@ -76,6 +76,6 @@ highlight_name: true
 
 Zibo Liu is ... (to be updated)
 
-His research interest focuses on ... (to be updated)
+My research interest focuses on ... (to be updated)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
