@@ -91,7 +91,7 @@ At relatively low frequency region when the bending wavelength is much longer th
 An impedance approach is hence proposed to estimate the sound transmission loss of the metamaterial panels in order to get more insights from physics. 
 This is realized, in general, by integrating the equivalent impedance of the resonators together with the corresponding impedance of the host panel. Valuable theories are derived based on that, laying a solid foundation for effective/efficient design of metamaterial panels. 
 
-Based on that,|2-
+Based on that,
 * A new design for locally resonant metamaterial sandwich plates is proposed to improve the sound transmission loss performance in the coincidence frequency region;
 * A metamaterial cylindrical shell is investigated, physical insights are drawn to its particular sound transmission loss properties;
 * A locally resonant metamaterial curved double wall is proposed and studied, with the aim of addressing the mass-spring-mass resonance and ring frequency effects of the wall.
@@ -101,7 +101,11 @@ I am continually following the cutting-edge research in e.g. wave phenomena and 
 
 All in all, my research experiences may thus be highlighted with mathematical skills, theoretical knowledge, simulation and experimental abilities in acoustics. 
 Further competencies of mine like creativity, critical thinking, communication, and problem solving to find and develop creative solutions for the complex research problems may also be reflected. To pursue a PhD is never easy. 
-What I cherish most from this journey are: i) Keep the objectives in mind, ii) Always think from the perspective of physics, iii) The strategy of reducing big, blur targets into small, achievable goals, iv) Always be a independent thinker and a good team worker. 
+What I cherish most from this journey are: 
+* Keep the objectives in mind;
+* Always think from the perspective of physics;
+* The strategy of reducing big, blur targets into small, achievable goals;
+* Always be a independent thinker and a good team worker. 
 With this treasure, I am ready to learn new things and take any challenges in the future.
 
 
