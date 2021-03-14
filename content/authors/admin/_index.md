@@ -92,7 +92,7 @@ An impedance approach is hence proposed to estimate the sound transmission loss 
 This is realized, in general, by integrating the equivalent impedance of the resonators together with the corresponding impedance of the host panel. Valuable theories are derived based on that, laying a solid foundation for effective/efficient design of metamaterial panels. 
 
 Based on that,
-* [A new design for locally resonant metamaterial sandwich plates is proposed to improve the sound transmission loss performance in the coincidence frequency region](url_publication:liu2018broadband); 
+* [A new design for locally resonant metamaterial sandwich plates is proposed to improve the sound transmission loss performance in the coincidence frequency region](publication/liu2018broadband/); 
 * A metamaterial cylindrical shell is investigated, physical insights are drawn to its particular sound transmission loss properties;
 * A locally resonant metamaterial curved double wall is proposed and studied, with the aim of addressing the mass-spring-mass resonance and ring frequency effects of the wall.
 
