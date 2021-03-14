@@ -29,6 +29,7 @@ experience:
     date_start: '2020-09-01'
     date_end: ''
     description: Research on the application of acoustic metamaterials.
+
     #description: |2-
     #    Responsibilities include:
     #    
@@ -36,11 +37,17 @@ experience:
     #    * Modelling
     #    * Deploying
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: External researcher
+    company: Department of Mechanical Engineering, Tsinghua University
+    company_url: 'http://www.me.tsinghua.edu.cn/en/'
+    location: Beijing, China
+    date_start: '2020-07-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Investigation of tribological behaviour of a diesel engine.
+        * Test bench design for engine leak-down test.
+
+    #description: Investigation of tribological behaviour of a diesel engine and engine sealing project.
 ---
