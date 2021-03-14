@@ -16,17 +16,17 @@ date: "2019-03-01T00:00:00Z"
 doi: "10.1063/1.5081134"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-03-20T00:00:00Z"
+publishDate: "2019-03-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Applied Physics*
-publication_short: In *Journal of Applied Physics*
+publication: *PhD Thesis*
+publication_short: *PhD Thesis*
 
 abstract: Locally resonant metamaterial flat panels have proved to potentially exhibit extraordinary sound transmission loss properties when the resonance frequency of the resonators is tuned to the coincidence frequency region. Whether this technique is also effective to address the ring frequency effect for curved panels is investigated in this paper. For this purpose, a cylindrical shell, as a representation of curved panels, is studied from a theoretical and numerical point of view, with a specific focus on the transmission loss behaviour around the ring frequency region when the shell is mounted with local resonators. The influence from the resonators is presented and compared with that for a flat panel. An inverse effect of the resonators is observed on the sound transmission loss between the metamaterial cylindrical shell and the metamaterial flat panel when the resonance frequency of the resonators is tuned to be below or above the ring or coincidence frequency, respectively. Rather than the extraordinary improvement observed for the metamaterial flat panel, tuning such conventional resonators to the ring frequency of curved panels generates two side dips despite a sharp improvement at the ring frequency itself. This phenomenon is explained from an effective impedance point of view developed in this paper. The approach proposed and the conclusions provided may subsequently allow for the design of suitable resonators in order to resolve the ring frequency effect for curved panels.
 
