@@ -48,7 +48,7 @@ url_pdf: 'publication/liu2019design/pdf.pdf'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
-# url_slides: ''
+url_slides: 'publication/liu2019design/slides.pdf'
 # url_source: ''
 # url_video: ''
 
