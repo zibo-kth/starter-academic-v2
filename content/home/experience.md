@@ -50,4 +50,20 @@ experience:
         * Test bench design for engine leak-down test.
 
     #description: Investigation of tribological behaviour of a diesel engine and engine sealing project.
+
+  - title: Research engineer
+    company: Institute of Acoustics, Tongji University
+    company_url: 'https://physics.tongji.edu.cn/en'
+    location: Shanghai, China
+    date_start: '2019-12-01'
+    date_end: ''
+    description: Modeling the sound insulation performance of the multilayer systems.
+
+  - title: Senior acoustic consultant, Project manager
+    company: Yi Duo Information Technology Co., Ltd. (Shanghai)
+    company_url: 'http://www.yiduo-tech.com/'
+    location: Shanghai, China
+    date_start: '2019-07-01'
+    date_end: '2021-01-31'
+    description: Develop pipeline jackets for nuclear power plant in order to achieve integrated function of thermal insulation and noise reduction as a part of the National Major Project Research of China.
 ---
