@@ -134,7 +134,7 @@ comments:
   commento:
     url: ''
 search:
-  provider: wowchemy
+  provider: Hugo
   algolia:
     app_id: ''
     api_key: ''
