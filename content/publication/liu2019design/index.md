@@ -13,7 +13,7 @@ authors:
 #- "Equal contribution"
 
 date: "2019-03-08T00:00:00Z"
-doi: "urn:nbn:se:kth:diva-245456"
+doi: "10.1063/1.5081134"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-02-12T00:00:00Z"
