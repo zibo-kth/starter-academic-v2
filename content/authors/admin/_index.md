@@ -74,21 +74,27 @@ email: ""
 highlight_name: true
 ---
 
-Zibo Liu is ... (to be updated)
+I graduated from Department of Aeronautical and Vehicle Engineering, KTH Royal Institute of Technology in April 2019 and received a PhD in Vehicle and Maritime Engineering (majored in *Engineering Acoustics*).
+I work as a research engineer in China after my graduation and collaborate with universities and industries on several NVH-related research projects. 
 
 I summarize my research into the following keywords: Acoustics; Vibroacoustics; Acoustic/elastic wave propagation; Sound insulation and absorption; Sound radiation; Structural analysis; Finite Element method; Signal analysis, Acoustic measurement.
 
 During my doctoral research, I mainly focused on the subject of vibroacoustics, especially the vibroacoustic behaviour of acoustic metamaterials, with the aim to improve the sound insulation performance of different types of structures through a metamaterial design. 
-The research was based on the theoretical investigation and numerical simulation. My doctoral thesis is a compilation work of my publications, entitled: Design of Soundproof Panels via Metamaterial Concept. 
-In the process of conducting my doctoral research, I have learnt how to identify, analyze and solve research-related problems. 
-I also developed relevant knowledge, research methods and methodology. 
+The research was based on the theoretical investigation and numerical simulation. My doctoral thesis is a compilation work of my publications, entitled: *Design of Soundproof Panels via Metamaterial Concept*. 
+In the process of conducting my doctoral research, I have learned how to identify, analyze and solve research-related problems. 
+<!-- I also developed relevant knowledge, research methods and methodology.  -->
 
-My research contributions from this project are recognized by scholars in the field, which are briefly introduced as follows. 
-A metamaterial design was proposed for sandwich structures in order to improve the sound insulation performance in the low frequency range. 
-Structures that are widely used in industries but have obvious disadvantages in acoustic performance were also studied respectively, such as double walls, curved panels and curved double walls. 
-The general idea was to improve the low sound transmission loss in certain frequency regions associated with these structures by adding resonators. 
-These studies eventually led to four peer-reviewed journal articles. 
-I also gave several presentations with respect to this topic at some international conferences. 
+My contributions in this research field are recognized and cited by scholars, which may be briefly introduced as follows. 
+The goal of the work is to find a way to improve the sound insulation properties of different types of panels in order to meet different requirements. 
+Inspired by the nontrivial behavior of the locally resonant acoustic metamaterials, this concept is introduced into the design of structures in order to explore the potential ways to improve the sound insulation behavior in the relevant specific frequency regions. 
+At relatively low frequency region when the bending wavelength is much longer than the distance between isolated resonators, which is also the interesting frequency range in the most part of the work, it may be assumed that the effects of the resonators are uniformly distributed over the entire surface. 
+An impedance approach is hence proposed to estimate the sound transmission loss of the metamaterial panels in order to get more insights from physics. 
+This is realized, in general, by integrating the equivalent impedance of the resonators together with the corresponding impedance of the host panel. Valuable theories are derived based on that, laying a solid foundation for effective/efficient design of metamaterial panels. 
+
+Based on that,|2-
+* A new design for locally resonant metamaterial sandwich plates is proposed to improve the sound transmission loss performance in the coincidence frequency region;
+* A metamaterial cylindrical shell is investigated, physical insights are drawn to its particular sound transmission loss properties;
+* A locally resonant metamaterial curved double wall is proposed and studied, with the aim of addressing the mass-spring-mass resonance and ring frequency effects of the wall.
 
 In addition to the research on acoustic metamaterial, I have broad and strong interests in different research fields of acoustics. 
 I am continually following the cutting-edge research in e.g. wave phenomena and metamaterials, topological acoustics, acoustic holography, machine learning in acoustics, building acoustics, music acoustics, etc., and reviewing latest publications via Google Scholar Alert.
