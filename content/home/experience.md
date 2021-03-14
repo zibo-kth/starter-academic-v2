@@ -66,4 +66,15 @@ experience:
     date_start: '2019-07-01'
     date_end: '2021-01-31'
     description: Develop pipeline jackets for nuclear power plant in order to achieve integrated function of thermal insulation and noise reduction as a part of the National Major Project Research of China.
+
+  - title: Research engineer
+    company: KTH Royal Institute of Technology
+    company_url: 'https://www.kth.se/profile/zibo'
+    location: Stockholm, Sweden
+    date_start: '2018-12-01'
+    date_end: '2019-06-30'
+    description: |2-
+        Responsibilities include:
+            * Research on the acoustic properties of metamaterials in order to develop the associated applications for sound insulation engineering; 
+            * Laboratory assistant at Marcus Wallenberg Laboratory for Sound and Vibration Research(MWL).
 ---
