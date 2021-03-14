@@ -80,7 +80,7 @@ I work as a research engineer in China after my graduation and collaborate with 
 I summarize my research into the following keywords: Acoustics; Vibroacoustics; Acoustic/elastic wave propagation; Sound insulation and absorption; Sound radiation; Structural analysis; Finite Element method; Signal analysis, Acoustic measurement.
 
 During my doctoral research, I mainly focused on the subject of vibroacoustics, especially the vibroacoustic behaviour of acoustic metamaterials, with the aim to improve the sound insulation performance of different types of structures through a metamaterial design. 
-The research was based on the theoretical investigation and numerical simulation. My doctoral thesis is a compilation work of my publications, entitled: *Design of Soundproof Panels via Metamaterial Concept*. 
+The research was based on the theoretical investigation and numerical simulation. My doctoral thesis is a compilation work of my publications, entitled: [*Design of Soundproof Panels via Metamaterial Concept*](publication/liu2019design/). 
 In the process of conducting my doctoral research, I have learned how to identify, analyze and solve research-related problems. 
 <!-- I also developed relevant knowledge, research methods and methodology.  -->
 
@@ -93,8 +93,8 @@ This is realized, in general, by integrating the equivalent impedance of the res
 
 Based on that,
 * [A new design for locally resonant metamaterial sandwich plates is proposed to improve the sound transmission loss performance in the coincidence frequency region](publication/liu2018broadband/); 
-* A metamaterial cylindrical shell is investigated, physical insights are drawn to its particular sound transmission loss properties;
-* A locally resonant metamaterial curved double wall is proposed and studied, with the aim of addressing the mass-spring-mass resonance and ring frequency effects of the wall.
+* [A metamaterial cylindrical shell is investigated, physical insights are drawn to its particular sound transmission loss properties](publication/liu2019investigation/);
+* [A locally resonant metamaterial curved double wall is proposed and studied, with the aim of addressing the mass-spring-mass resonance and ring frequency effects of the wall](publication/liu2021locally/).
 
 In addition to the research on acoustic metamaterial, I have broad and strong interests in different research fields of acoustics. 
 I am continually following the cutting-edge research in e.g. wave phenomena and metamaterials, topological acoustics, acoustic holography, machine learning in acoustics, building acoustics, music acoustics, etc., and reviewing latest publications via Google Scholar Alert.
