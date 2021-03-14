@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'publication/pdf.pdf'
+url_pdf: 'publication/liu2018broadband/pdf.pdf'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
