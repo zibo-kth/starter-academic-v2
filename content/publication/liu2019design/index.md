@@ -6,8 +6,6 @@ title: "Design of soundproof panels via metamaterial concept"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Romain Rumpler
-- Leping Feng
 
 # Author notes (optional)
 #author_notes:
