@@ -78,7 +78,7 @@ highlight_name: true
 I graduated from Department of Aeronautical and Vehicle Engineering, KTH Royal Institute of Technology in April 2019 and received a PhD in Vehicle and Maritime Engineering (majored in *Engineering Acoustics*).
 I work as a research engineer in China after my graduation and collaborate with universities and industries on several NVH-related research projects. 
 
-I summarize my research into the following keywords: Acoustics; Vibroacoustics; Acoustic/elastic wave propagation; Sound insulation and absorption; Sound radiation; Structural analysis; Finite Element method; Signal analysis, Acoustic measurement.
+I summarize my background into the following keywords: Acoustic metamaterials; Vibroacoustics; Acoustic/elastic wave propagation; Sound insulation and absorption; Sound radiation; NVH control; Structural analysis; Finite Element method; Signal analysis, Acoustic measurement.
 
 During my doctoral research, I mainly focused on the subject of vibroacoustics, especially the vibroacoustic behaviour of acoustic metamaterials, with the aim to improve the sound insulation performance of different types of structures through a metamaterial design. 
 The research was based on the theoretical investigation and numerical simulation. My doctoral thesis is a compilation work of my publications, entitled: [*Design of Soundproof Panels via Metamaterial Concept*](publication/liu2019design/). 
@@ -101,7 +101,8 @@ In addition to the research on acoustic metamaterial, I have broad and strong in
 I am continually following the cutting-edge research in e.g. wave phenomena and metamaterials, topological acoustics, acoustic holography, machine learning in acoustics, building acoustics, music acoustics, etc., and reviewing latest publications via Google Scholar Alert.
 
 All in all, my research experiences may thus be highlighted with mathematical skills, theoretical knowledge, simulation and experimental abilities in acoustics. 
-Further competencies of mine like creativity, critical thinking, communication, and problem solving to find and develop creative solutions for the complex research problems may also be reflected. To pursue a PhD is never easy. 
+Further competencies of mine may also be reflected that may be beneficial for developing innovative methods for multidisciplinary research topics, like creativity, critical thinking, efficient communication, and problem solving skills. 
+To pursue a PhD is never easy. 
 What I cherish most from this journey are: 
 * Keep the objectives in mind;
 * Always think from the perspective of physics;
