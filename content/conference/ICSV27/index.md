@@ -64,14 +64,16 @@ projects:
 - example
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
 
 Slides can be added in a few ways:
 
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+- A design method is proposed for curved sandwich panels. 
+- The ring frequency and coincidence effects may be suppressed simultaneously based on such method, resulting in improved sound transmission loss properties of the curved sandwich panel in the low frequency range.
+- The proposed method is based on an impedance approach that is developed for the estimation of the sound transmission loss of curved sandwich panels.
 
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+Physical insights are drawn for the observed sound transmission behaviour of the panel based on the impedance approach over the frequency range of interest.
+The results are validated against the finite element simulations.
+
+
+
+
