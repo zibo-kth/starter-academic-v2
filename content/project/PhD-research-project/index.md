@@ -19,7 +19,7 @@ image:
 #   url: https://twitter.com/georgecushen
 # url_code: ""
 # url_pdf: ""
-url_slides: "/project/phd-research-project/introPresentationResearch"
+url_slides: "/project/phd-research-project/introPresentationResearch.pdf"
 # url_video: ""
 
 # Slides (optional).
