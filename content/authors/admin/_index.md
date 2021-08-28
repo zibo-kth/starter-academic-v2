@@ -23,7 +23,7 @@ interests:
 - Acoustic engineering
 - Acoustic Metamaterials
 - Waves
-- *NVH* control
+- Technologies for *NVH* control
 - Machine Learning
 - Work out
 - Piano
