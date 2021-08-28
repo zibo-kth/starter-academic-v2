@@ -30,7 +30,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Acoustics (degree awarded in the subject area of Vehicle and Maritime Engineering)
+  - course: PhD in Acoustics (Degree awarded in the subject area of Vehicle and Maritime Engineering)
     institution: KTH Royal Institute of Technology
     year: April 2019
   - course: MEng in Acoustics
