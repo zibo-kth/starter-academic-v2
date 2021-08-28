@@ -108,7 +108,7 @@ What I cherish most from this journey are:
 * Keep the objectives in mind;
 * Always think from the perspective of physics;
 * The strategy of reducing big, blur targets into small, achievable goals;
-* Always be a independent thinker and a good team worker. 
+* Always be a independent thinker and a good team player. 
 
 With this treasure, I am ready to learn new things and take any challenges in the future. 👋 
 
