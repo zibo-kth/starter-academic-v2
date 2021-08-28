@@ -22,13 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoctoral researcher
-    company: Department of Mechanical Engineering, Tsinghua University
-    company_url: 'http://www.me.tsinghua.edu.cn/en/'
-    location: Beijing, China
-    date_start: '2020-05-01'
-    date_end: ''
-    description: Research on the phonon properties of nanostructures. The objective is to investigate the energy dissipation machenism via phonons, and realize the tuning of nanofriction properties for tailored 2D materials based on phonon engineering.
 
   - title: External researcher
     company: School of Material, Sun Yat-sen University
