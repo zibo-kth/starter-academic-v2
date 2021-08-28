@@ -36,7 +36,7 @@ featured: false
 
 image:
   caption: 'Image credit: [**Unsplash**](https://icsv27.gcon.me/360/1/tour/)'
-  focal_point: Right
+  focal_point: Middle
 
 links:
 # - icon: twitter
