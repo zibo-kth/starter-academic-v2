@@ -56,7 +56,7 @@ experience:
     company_url: 'https://physics.tongji.edu.cn/en'
     location: Shanghai, China
     date_start: '2019-12-01'
-    date_end: ''
+    date_end: '2021-04-30'
     description: Modeling the sound insulation performance of the multilayer systems.
 
   - title: Senior acoustic consultant, Project manager
