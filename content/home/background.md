@@ -33,7 +33,7 @@ experience:
 
 
   - title: Research engineer in Acoustics
-    company: KTH; Yi Duo Co., Ltd; TJU; SUSU; Tsinghua
+    company: see more information in Detailed Experiences
     company_url: ''
     location: 
     date_start: '2019-04-30'
@@ -42,7 +42,7 @@ experience:
 
         
   - title: Postgraduate researcher (i.e. PhD student) in Acoustics
-    company: The Marcus Wallenberg Laboratory for Sound and Vibration Research(MWL), Department of Aeronatical and Vechicle Engineering (Now Department of Engineering Mechanics ), KTH Royal Institute of Technology
+    company: The Marcus Wallenberg Laboratory for Sound and Vibration Research (MWL), Department of Aeronatical and Vechicle Engineering (Now Department of Engineering Mechanics ), KTH Royal Institute of Technology
     company_url: 'https://www.kth.se/en/2.14290/ave/avd/mwl'
     location: 
     date_start: '2014-09-01'
