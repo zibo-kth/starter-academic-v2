@@ -36,7 +36,7 @@ experience:
        * Leading weekly group discussions and co-advising jonior postgraduate students.
 
 
-  - title: External researcher
+  - title: External researcher (Part time, 20%)
     company: School of Material, Sun Yat-sen University
     company_url: 'http://www.sysu.edu.cn/en/'
     location: Guangzhou, China
