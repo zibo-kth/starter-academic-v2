@@ -39,13 +39,13 @@ image:
   focal_point: Middle
 
 links:
-# - icon: twitter
-  # icon_pack: fab
-  # name: Follow
-  # url: https://twitter.com/georgecushen
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "conference/ICSV27/presentation-ICSV27-2.pdf"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
