@@ -33,8 +33,8 @@ experience:
 
 
   - title: Research engineer in Acoustics
-    company: See more information in url:'#experience'
-    company_url: ''
+    company: See more information in Detialed Experiences
+    company_url: '#experience'
     location: 
     date_start: '2019-04-30'
     date_end: '2021-04-30'
