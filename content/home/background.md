@@ -33,7 +33,7 @@ experience:
 
 
   - title: Research engineer in Acoustics
-    company: see more information in Detailed Experiences
+    company: See more information in url:'#experience'
     company_url: ''
     location: 
     date_start: '2019-04-30'
