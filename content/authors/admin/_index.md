@@ -21,8 +21,9 @@ bio: My research interests include acoustic metamaterials, vibroacoustics, noise
 interests:
 - Vibroacoustics
 - Acoustic Metamaterials
-- Waves
-- Technologies for *NVH* controll
+- Acoustic Engineering
+- Acoustic Waves
+- NVH control
 - Machine Learning
 - Work out
 - Piano
