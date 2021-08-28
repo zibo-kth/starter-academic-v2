@@ -1,9 +1,9 @@
 ---
 title: PhD Research Project
-summary: An example of using the in-built project page.
+summary: Design of Soundproof Panels via Metamaterial Concept
 tags:
 - Acoustic Metamaterials
-date: "2016-04-27T00:00:00Z"
+date: "2019-03-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -12,15 +12,15 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
+# links:
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
+# url_code: ""
+# url_pdf: ""
 url_slides: ""
-url_video: ""
+# url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
