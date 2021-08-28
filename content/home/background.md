@@ -33,7 +33,7 @@ experience:
 
 
   - title: Research engineer in Acoustics
-    company: KTH; Yi Duo Co., Ltd; TJU; SUSU & Tsinghua
+    company: KTH; Yi Duo Co., Ltd; TJU; SUSU \& Tsinghua
     company_url: ''
     location: 
     date_start: '2020-04-30'
