@@ -23,20 +23,16 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Postdoctoral researcher (Full time, 100%)
+  - title: Postdoctoral researcher
     company: Department of Mechanical Engineering, Tsinghua University
     company_url: 'http://www.me.tsinghua.edu.cn/en/'
-    location: Beijing, China
+    location: 
     date_start: '2021-05-01'
     date_end: ''
-    description: |2-
-       Responsibilities include:
-       
-       * Conducting research on the phonon properties of nanostructures. The objective is to investigate the energy dissipation machenism via phonons, and realize the tuning of nanofriction properties for tailored 2D materials based on phonon engineering.
-       * Leading weekly group discussions and co-advising jonior postgraduate students.
+    description: 
 
 
-  - title: External researcher (Part time, 20%)
+  - title: Research engineer in Acoustics
     company: School of Material, Sun Yat-sen University
     company_url: 'http://www.sysu.edu.cn/en/'
     location: Guangzhou, China
