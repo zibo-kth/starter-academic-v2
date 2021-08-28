@@ -19,7 +19,7 @@ image:
 #   url: https://twitter.com/georgecushen
 # url_code: ""
 # url_pdf: ""
-url_slides: ""
+url_slides: "/introPresentationResearch"
 # url_video: ""
 
 # Slides (optional).
@@ -27,7 +27,7 @@ url_slides: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 During my doctoral research, I mainly focused on the subject of vibroacoustics, especially the vibroacoustic behaviour of acoustic metamaterials, with the aim to improve the sound insulation performance of different types of structures through a metamaterial design. 
