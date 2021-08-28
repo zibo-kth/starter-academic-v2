@@ -27,7 +27,7 @@ experience:
     company_url: 'http://www.sysu.edu.cn/en/'
     location: Guangzhou, China
     date_start: '2020-09-01'
-    date_end: ''
+    date_end: '2021-04-30'
     description: Research on the application of acoustic metamaterials.
 
     #description: |2-
