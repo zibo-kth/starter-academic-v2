@@ -1,10 +1,10 @@
 ---
-title: The 27th International Congress on Sound and Vibration
+title: 24th International Conference on Composite Structures
 
-event: The 27th International Congress on Sound and Vibration
-event_url: https://icsv27.gcon.me/page/home
+event: 24th International Conference on Composite Structures
+event_url: https://eventi.unibo.it/iccs24
 
-location: Virtual held by IIAV
+location: Virtual held by FEUP - Faculty of Engineering, University of Porto, Portugal, 14 - 18 June 2021
 address:
   street: 
   city: 
@@ -12,17 +12,13 @@ address:
   postcode: ''
   country: 
 
-summary: Design of curved sandwich panels to overcome the ring frequency and coincidence effects.
-abstract: "A design method is proposed for curved sandwich panels. 
-The ring frequency and coincidence effects may be suppressed simultaneously based on such method, resulting in improved sound transmission loss properties of the curved sandwich panel in the low frequency range.
-The proposed method is based on an impedance approach that is developed for the estimation of the sound transmission loss of curved sandwich panels.
-Physical insights are drawn for the observed sound transmission behaviour of the panel based on the impedance approach over the frequency range of interest.
-The results are validated against the finite element simulations."
+summary: Curved double wall with embedded resonators to improve the sound transmission loss
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-07-11T13:00:00Z"
-date_end: "2021-07-11T13:30:00Z"
+date: "2021-06-15T14:40:00Z"
+date_end: "2021-06-15T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -35,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://icsv27.gcon.me/360/1/tour/)'
+  caption: ''
   focal_point: Right
 
 # links:
@@ -45,7 +41,7 @@ image:
 #   url: https://twitter.com/georgecushen
 # url_code: ""
 # url_pdf: ""
-url_slides: "conference/ICSV27/presentation-ICSV27-2.pdf"
+url_slides: "conference/ICCS24/ICCS24.pdf"
 # url_video: ""
 
 # Markdown Slides (optional).
@@ -64,16 +60,9 @@ url_slides: "conference/ICSV27/presentation-ICSV27-2.pdf"
 # - example
 ---
 
-**Design of curved sandwich panels to overcome the ring frequency and coincidence effects**
+**Curved double wall with embedded resonators to improve the sound transmission loss**
 
-**Abstract**:
 
-- A design method is proposed for curved sandwich panels. 
-- The ring frequency and coincidence effects may be suppressed simultaneously based on such method, resulting in improved sound transmission loss properties of the curved sandwich panel in the low frequency range.
-- The proposed method is based on an impedance approach that is developed for the estimation of the sound transmission loss of curved sandwich panels.
-
-Physical insights are drawn for the observed sound transmission behaviour of the panel based on the impedance approach over the frequency range of interest.
-The results are validated against the finite element simulations.
 
 
 
