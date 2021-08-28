@@ -51,7 +51,7 @@ experience:
     #    * Modelling
     #    * Deploying
         
-  - title: External researcher
+  - title: External researcher (Part time, 20%)
     company: Department of Mechanical Engineering, Tsinghua University
     company_url: 'http://www.me.tsinghua.edu.cn/en/'
     location: Beijing, China
@@ -65,7 +65,7 @@ experience:
 
     #description: Investigation of tribological behaviour of a diesel engine and engine sealing project.
 
-  - title: Research engineer
+  - title: Research engineer (Part time, 20%)
     company: Institute of Acoustics, Tongji University
     company_url: 'https://physics.tongji.edu.cn/en'
     location: Shanghai, China
@@ -73,7 +73,7 @@ experience:
     date_end: '2021-04-30'
     description: Modeling the sound insulation performance of the multilayer systems.
 
-  - title: Senior acoustic consultant, Project manager
+  - title: Senior acoustic consultant, Project manager (Full time, 80%)
     company: Yi Duo Information Technology Co., Ltd. (Shanghai)
     company_url: 'http://www.yiduo-tech.com/'
     location: Shanghai, China
@@ -81,7 +81,7 @@ experience:
     date_end: '2021-01-31'
     description: Develop pipeline jackets for nuclear power plant in order to achieve integrated function of thermal insulation and noise reduction as a part of the National Major Project Research of China.
 
-  - title: Research engineer
+  - title: Research engineer (Part time, 50%)
     company: KTH Royal Institute of Technology
     company_url: 'https://www.kth.se/profile/zibo'
     location: Stockholm, Sweden
