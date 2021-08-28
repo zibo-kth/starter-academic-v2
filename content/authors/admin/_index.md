@@ -20,9 +20,10 @@ bio: My research interests include acoustic metamaterials, vibroacoustics, noise
 # Interests to show in About widget
 interests:
 - Vibroacoustics
+- Acoustic engineering
 - Acoustic Metamaterials
 - Waves
-- Technologies for *NVH* control
+- *NVH* control
 - Machine Learning
 - Work out
 - Piano
