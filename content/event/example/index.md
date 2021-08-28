@@ -1,7 +1,7 @@
 ---
 title: ICSV 27
 
-event: Wowchemy Conference
+event: The 27th International Congress on Sound and Vibration
 event_url: https://example.org
 
 location: Wowchemy HQ
