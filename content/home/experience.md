@@ -33,7 +33,7 @@ experience:
        Responsibilities include:
        
        * Conducting research on the phonon properties of nanostructures. The objective is to investigate the energy dissipation machenism via phonons, and realize the tuning of nanofriction properties for tailored 2D materials based on phonon engineering.
-       * Leading weekly group discussions and co-advising jonior postgraduate students.
+       * Leading weekly group discussions and co-advising junior postgraduate students.
 
 
   - title: External researcher (Part time, 20%)
