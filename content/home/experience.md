@@ -27,7 +27,7 @@ experience:
     company: Department of Mechanical Engineering, Tsinghua University
     company_url: 'http://www.me.tsinghua.edu.cn/en/'
     location: Beijing, China
-    date_start: '2020-05-01'
+    date_start: '2021-05-01'
     date_end: ''
     description: |2-
        Responsibilities include:
