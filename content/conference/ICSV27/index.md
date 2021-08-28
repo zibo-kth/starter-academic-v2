@@ -64,8 +64,9 @@ projects:
 - example
 ---
 
+**Design of curved sandwich panels to overcome the ring frequency and coincidence effects**
 
-Slides can be added in a few ways:
+**Abstract**:
 
 - A design method is proposed for curved sandwich panels. 
 - The ring frequency and coincidence effects may be suppressed simultaneously based on such method, resulting in improved sound transmission loss properties of the curved sandwich panel in the low frequency range.
