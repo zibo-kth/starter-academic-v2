@@ -30,12 +30,33 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+During my doctoral research, I mainly focused on the subject of vibroacoustics, especially the vibroacoustic behaviour of acoustic metamaterials, with the aim to improve the sound insulation performance of different types of structures through a metamaterial design. 
+The research was based on the theoretical investigation and numerical simulation. My doctoral thesis is a compilation work of my publications, entitled: [*Design of Soundproof Panels via Metamaterial Concept*](publication/liu2019design/). 
+In the process of conducting my doctoral research, I have learned how to identify, analyze and solve research-related problems. 
+<!-- I also developed relevant knowledge, research methods and methodology.  -->
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+My contributions in this research field are recognized and cited by scholars, which may be briefly introduced as follows. 
+The goal of the work is to find a way to improve the sound insulation properties of different types of panels in order to meet different requirements. 
+Inspired by the nontrivial behavior of the locally resonant acoustic metamaterials, this concept is introduced into the design of structures in order to explore the potential ways to improve the sound insulation behavior in the relevant specific frequency regions. 
+At relatively low frequency region when the bending wavelength is much longer than the distance between isolated resonators, which is also the interesting frequency range in the most part of the work, it may be assumed that the effects of the resonators are uniformly distributed over the entire surface. 
+An impedance approach is hence proposed to estimate the sound transmission loss of the metamaterial panels in order to get more insights from physics. 
+This is realized, in general, by integrating the equivalent impedance of the resonators together with the corresponding impedance of the host panel. Valuable theories are derived based on that, laying a solid foundation for effective/efficient design of metamaterial panels. 
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Based on that,
+* [A new design for locally resonant metamaterial sandwich plates is proposed to improve the sound transmission loss performance in the coincidence frequency region](publication/liu2018broadband/); 
+* [A metamaterial cylindrical shell is investigated, physical insights are drawn to its particular sound transmission loss properties](publication/liu2019investigation/);
+* [A locally resonant metamaterial curved double wall is proposed and studied, with the aim of addressing the mass-spring-mass resonance and ring frequency effects of the wall](publication/liu2021locally/).
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+In addition to the research on acoustic metamaterial, I have broad and strong interests in different research fields of acoustics. 
+I am continually following the cutting-edge research in e.g. wave phenomena and metamaterials, topological acoustics, acoustic holography, machine learning in acoustics, building acoustics, music acoustics, etc., and reviewing latest publications via Google Scholar Alert.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+All in all, my research experiences may thus be highlighted with mathematical skills, theoretical knowledge, simulation and experimental abilities in acoustics. 
+Further competencies of mine may also be reflected that may be beneficial for developing innovative methods for multidisciplinary research topics, like creativity, critical thinking, efficient communication, and problem solving skills. 
+To pursue a PhD is never easy. 
+What I cherish most from this journey are: 
+* Keep the objectives in mind;
+* Always think from the perspective of physics;
+* The strategy of reducing big, blur targets into small, achievable goals;
+* Always be a independent thinker and a good team player. 
+
+With this treasure, I am ready to learn new things and take any challenges in the future. 👋 
