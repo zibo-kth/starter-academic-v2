@@ -1,5 +1,5 @@
 ---
-title: ICSV 27
+title: The 27th International Congress on Sound and Vibration
 
 event: The 27th International Congress on Sound and Vibration
 event_url: https://icsv27.gcon.me/page/home
