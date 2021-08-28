@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: ICSV 27
 
 event: Wowchemy Conference
 event_url: https://example.org
