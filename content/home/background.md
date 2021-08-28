@@ -40,13 +40,7 @@ experience:
     date_end: '2021-04-30'
     description: 
 
-        
-  - title: PhD in Acoustics
-    company: The Marcus Wallenberg Laboratory for Sound and Vibration Research(MWL), Department of Aeronatical and Vechicle Engineering (Now Department of Engineering Mechanics ), KTH Royal Institute of Technology
-    company_url: 'https://www.kth.se/en/2.14290/ave/avd/mwl
-    location: Beijing, China
-    date_start: '2020-07-01'
-    date_end: '2021-04-30'
+
 
 
     #description: Investigation of tribological behaviour of a diesel engine and engine sealing project.
