@@ -1,24 +1,28 @@
 ---
-title: Example Talk
+title: The 27th International Congress on Sound and Vibration
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: The 27th International Congress on Sound and Vibration
+event_url: https://icsv27.gcon.me/page/home
 
-location: Wowchemy HQ
+location: Virtual held by IIAV
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 
+  city: 
+  region: 
+  postcode: ''
+  country: 
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Design of curved sandwich panels to overcome the ring frequency and coincidence effects.
+abstract: "A design method is proposed for curved sandwich panels. 
+The ring frequency and coincidence effects may be suppressed simultaneously based on such method, resulting in improved sound transmission loss properties of the curved sandwich panel in the low frequency range.
+The proposed method is based on an impedance approach that is developed for the estimation of the sound transmission loss of curved sandwich panels.
+Physical insights are drawn for the observed sound transmission behaviour of the panel based on the impedance approach over the frequency range of interest.
+The results are validated against the finite element simulations."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-07-11T13:00:00Z"
+date_end: "2021-07-11T13:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
