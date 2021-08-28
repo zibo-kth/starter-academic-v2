@@ -42,7 +42,7 @@ experience:
     location: Guangzhou, China
     date_start: '2020-09-01'
     date_end: '2021-04-30'
-    description: Research on the application of acoustic metamaterials.
+    description: Research on the exploitation of acoustic metamaterial applications.
 
     #description: |2-
     #    Responsibilities include:
@@ -91,5 +91,5 @@ experience:
         Responsibilities include:
 
         * Research on the acoustic properties of metamaterials in order to develop the associated applications for sound insulation engineering; 
-        * Laboratory assistant at Marcus Wallenberg Laboratory for Sound and Vibration Research(MWL).
+        * Laboratory assistant at the Marcus Wallenberg Laboratory for Sound and Vibration Research (MWL).
 ---
