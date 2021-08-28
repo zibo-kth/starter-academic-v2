@@ -42,7 +42,7 @@ experience:
     company_url: 'http://www.me.tsinghua.edu.cn/en/'
     location: Beijing, China
     date_start: '2020-07-01'
-    date_end: ''
+    date_end: '2021-04-30'
     description: |2-
         Responsibilities include:
         
