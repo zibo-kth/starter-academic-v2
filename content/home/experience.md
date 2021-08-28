@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Postdoctoral researcher
+  - title: Postdoctoral researcher (Full time, 100%)
     company: Department of Mechanical Engineering, Tsinghua University
     company_url: 'http://www.me.tsinghua.edu.cn/en/'
     location: Beijing, China
