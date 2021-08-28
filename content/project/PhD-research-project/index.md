@@ -29,6 +29,7 @@ url_slides: "/project/phd-research-project/introPresentationResearch"
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+**Design of Soundproof Panels via Metamaterial Concept**
 
 During my doctoral research, I mainly focused on the subject of vibroacoustics, especially the vibroacoustic behaviour of acoustic metamaterials, with the aim to improve the sound insulation performance of different types of structures through a metamaterial design. 
 The research was based on the theoretical investigation and numerical simulation. My doctoral thesis is a compilation work of my publications, entitled: [*Design of Soundproof Panels via Metamaterial Concept*](https://www.liuzibo.com/publication/liu2019design/). 
