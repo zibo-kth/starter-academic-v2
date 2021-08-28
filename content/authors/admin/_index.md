@@ -79,7 +79,7 @@ highlight_name: true
 I graduated from Department of Aeronautical and Vehicle Engineering, KTH Royal Institute of Technology in April 2019 and received a PhD in Vehicle and Maritime Engineering (majored in *Engineering Acoustics*).
 I work as a research engineer in acoustics in China after my graduation from April 2019 to April 2021.
 During this period, I am in collaboration with universities and industries on several *NVH* research projects.
-**Currently, I am working as a postdoctoral researcher at Department of Mechanical Engineering, Tsinghua University, with a focus on the phonon energy dissipation in nanofriction, started in May 2021.**
+**Currently, I am working as a postdoctoral researcher at Department of Mechanical Engineering, Tsinghua University**, with a focus on the phonon energy dissipation in nanofriction, started in May 2021.
 
 I summarize my background into the following keywords: Acoustic metamaterials; Vibroacoustics; Acoustic/elastic wave propagation; Sound insulation and absorption; Sound radiation; NVH control; Structural analysis; Finite Element method; Signal analysis; Acoustic measurement; Phonon.
 
