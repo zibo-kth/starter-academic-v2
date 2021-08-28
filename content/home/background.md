@@ -7,9 +7,9 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 20
 
-title: Detailed Experience
+title: Background
 subtitle:
 
 # Date format for experience
@@ -65,31 +65,5 @@ experience:
 
     #description: Investigation of tribological behaviour of a diesel engine and engine sealing project.
 
-  - title: Research engineer (Part time, 20%)
-    company: Institute of Acoustics, Tongji University
-    company_url: 'https://physics.tongji.edu.cn/en'
-    location: Shanghai, China
-    date_start: '2019-12-01'
-    date_end: '2021-04-30'
-    description: Modeling the sound insulation performance of the multilayer systems.
 
-  - title: Senior acoustic consultant, Project manager (Full time, 80%)
-    company: Yi Duo Information Technology Co., Ltd. (Shanghai)
-    company_url: 'http://www.yiduo-tech.com/'
-    location: Shanghai, China
-    date_start: '2019-07-01'
-    date_end: '2021-01-31'
-    description: Develop pipeline jackets for nuclear power plant in order to achieve integrated function of thermal insulation and noise reduction as a part of the National Major Project Research of China.
-
-  - title: Research engineer (Part time, 50%)
-    company: KTH Royal Institute of Technology
-    company_url: 'https://www.kth.se/profile/zibo'
-    location: Stockholm, Sweden
-    date_start: '2018-12-01'
-    date_end: '2019-06-30'
-    description: |2-
-        Responsibilities include:
-
-        * Research on the acoustic properties of metamaterials in order to develop the associated applications for sound insulation engineering; 
-        * Laboratory assistant at Marcus Wallenberg Laboratory for Sound and Vibration Research(MWL).
 ---
