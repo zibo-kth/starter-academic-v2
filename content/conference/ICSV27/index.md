@@ -38,30 +38,30 @@ image:
   caption: 'Image credit: [**Unsplash**](https://icsv27.gcon.me/360/1/tour/)'
   focal_point: Right
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
+# links:
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
+# url_code: ""
+# url_pdf: ""
 url_slides: "conference/ICSV27/presentation-ICSV27-2.pdf"
-url_video: ""
+# url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- example
+# projects:
+# - example
 ---
 
 **Design of curved sandwich panels to overcome the ring frequency and coincidence effects**
