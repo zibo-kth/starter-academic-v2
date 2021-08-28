@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Postdoctoral researcher
+  - title: Postdoctoral researcher in Mechanical Engineering
     company: Department of Mechanical Engineering, Tsinghua University
     company_url: 'http://www.me.tsinghua.edu.cn/en/'
     location: 
@@ -33,32 +33,20 @@ experience:
 
 
   - title: Research engineer in Acoustics
-    company: School of Material, Sun Yat-sen University
-    company_url: 'http://www.sysu.edu.cn/en/'
-    location: Guangzhou, China
-    date_start: '2020-09-01'
+    company: KTH; Yi Duo Co., Ltd; TJU; SUSU & Tsinghua
+    company_url: ''
+    location: 
+    date_start: '2019-04-30'
     date_end: '2021-04-30'
-    description: Research on the application of acoustic metamaterials.
+    description: 
 
-    #description: |2-
-    #    Responsibilities include:
-    #    
-    #    * Analysing
-    #    * Modelling
-    #    * Deploying
         
-  - title: External researcher (Part time, 20%)
-    company: Department of Mechanical Engineering, Tsinghua University
-    company_url: 'http://www.me.tsinghua.edu.cn/en/'
-    location: Beijing, China
-    date_start: '2020-07-01'
-    date_end: '2021-04-30'
-    description: |2-
-        Responsibilities include:
-        
-        * Investigation of tribological behaviour of a diesel engine;
-        * Test bench design for the engine leak-down test.
-
+  - title: PhD in Acoustics
+    company: The Marcus Wallenberg Laboratory for Sound and Vibration Research(MWL), Department of Aeronatical and Vechicle Engineering (Now Department of Engineering Mechanics ), KTH Royal Institute of Technology
+    company_url: 'https://www.kth.se/en/2.14290/ave/avd/mwl
+    location: 
+    date_start: '2014-09-01'
+    date_end: '2019-04-30'
     #description: Investigation of tribological behaviour of a diesel engine and engine sealing project.
 
 
