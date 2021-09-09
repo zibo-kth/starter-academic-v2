@@ -18,5 +18,5 @@ image:
 **Control of nanofriction properties via phonon engineering**
 
 Understanding the physical mechanisms of the origin of friction, and exploring the potential methods for the control of the frictional properties of materials is one of the cutting-edge challenges for the development of a sustainable society. 
-Fundamental knowledge with respect to the friction includes the understanding of the energy dissipation mechanism in a nanoscale, where phonons may play a key role, forms the topic of the current study.
+Fundamental knowledge with respect to friction includes the understanding of the energy dissipation mechanism in a nanoscale, where phonons may play a key role -- which forms the topic of the current study.
 
