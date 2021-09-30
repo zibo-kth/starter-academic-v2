@@ -28,11 +28,11 @@ publication_types: ["0"]
 publication: On *GitHub*
 publication_short: On *GitHub*
 
-abstract: Estimation of Sound Insertion Loss of a Multilayer Pipeline Jacket System.
+abstract: SooMa ((SO)und insertion l(O)ss of (M)ultilayer pipeline j(A)cket), An Open Source Code, please cite Zibo's relevant research papers when using the code. Note that there may be assumptions when describing the acoustic response when developing this code, typically working in the low frequency range (<= 2000 Hz).
 
 
 # Summary. An optional shortened abstract.
-summary: SooMa ((SO)und insertion l(O)ss of (M)ultilayer pipeline j(A)cket), An Open Source Code, please cite Zibo's relevant research papers when using the code. Note that there may be assumptions when describing the acoustic response when developing this code, typically working in the low frequency range (<= 2000 Hz).
+summary: Estimation of Sound Insertion Loss of a Multilayer Pipeline Jacket System.
 
 
 
