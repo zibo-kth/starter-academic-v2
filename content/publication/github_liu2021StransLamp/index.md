@@ -1,26 +1,22 @@
 ---
-title: "Suppression of the vibration and sound radiation of a sandwich plate via periodic design"
+title: "Estimation of Sound Transmission Loss of Acoustic Metamaterial Panels (STransLAMP) - An open-source code"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-authors:
-- Yubao Song
-- Leping Feng
+author:
 - admin
-- Jihong Wen
-- Dianlong Yu
 
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2018-05-31T00:00:00Z"
-doi: "10.1016/j.ijmecsci.2018.10.055"
+date: "2021-05-18T00:00:00Z"
+doi: "https://github.com/zibo-kth/STransLAMP"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-10-21T00:00:00Z"
+publishDate: "2021-05-18T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
