@@ -35,7 +35,7 @@ abstract: Locally resonant metamaterial flat panels have proved to potentially e
 # Summary. An optional shortened abstract.
 summary: A cylindrical shell, as a representation of curved panels, is studied from a theoretical and numerical point of view, with a specific focus on the transmission loss behaviour around the ring frequency region when the shell is mounted with local resonators. The approach proposed and the conclusions provided in this paper may subsequently allow for the design of suitable resonators in order to resolve the ring frequency effect for curved panels.
 
-tags: []
+tags: [Acoustic Metamaterials, Sound transmission loss, Finite Element method]
 
 # Display this page in the Featured widget?
 featured: true
