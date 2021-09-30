@@ -13,7 +13,7 @@ author:
 #- "Equal contribution"
 
 date: "2021-05-18T00:00:00Z"
-doi: "https://github.com/zibo-kth/STransLAMP"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-05-18T00:00:00Z"
@@ -22,11 +22,11 @@ publishDate: "2021-05-18T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: On *GitHub*
-publication_short: In *International Journal of Mechanical Sciences*
+publication_short: On *GitHub*
 
 abstract: Estimation of Sound Transmission Loss of Acoustic Metamaterial Panels.
 
