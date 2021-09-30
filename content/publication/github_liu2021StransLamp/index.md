@@ -35,7 +35,7 @@ abstract: Estimation of Sound Transmission Loss of Acoustic Metamaterial Panels.
 summary: Estimation of Sound Transmission Loss of Acoustic Metamaterial Panels.
 
 
-tags: [Acoustic Metamaterials, Sound transmission loss]
+tags: [Acoustic Metamaterials, Sound transmission loss, Open-source]
 
 # Display this page in the Featured widget?
 featured: true
