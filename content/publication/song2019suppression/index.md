@@ -38,7 +38,7 @@ abstract: This paper investigates the suppression of vibration and sound radiati
 # Summary. An optional shortened abstract.
 summary: Effects of periodic design on vibration and sound of a sandwich plate are studied. Reasons for the improvement on acoustic properties are expounded. Effects of boundary conditions on vibration and sound radiation are analysed. Vibration, sound radiation and radiation efficiency are reduced in multi ranges.
 
-tags: []
+tags: [Acoustic Metamaterials, Sound transmission loss, Sound radiation efficiency, Sandwich Structures, Dispersion relation]
 
 # Display this page in the Featured widget?
 featured: true
