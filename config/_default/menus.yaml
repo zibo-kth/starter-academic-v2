@@ -22,13 +22,15 @@ main:
  # - name: Posts
  #   url: '#posts'
  #   weight: 40
-
+  - name: Accomplishments
+    url: '#accomplishments'
+    weight: 60
   - name: Talks
     url: '#talks'
-    weight: 60
+    weight: 70
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 80
 #  - name: Recent Publications
 #    url: '#publications'
 #    weight: 80
