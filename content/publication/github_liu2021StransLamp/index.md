@@ -1,5 +1,5 @@
 ---
-title: "Estimation of Sound Transmission Loss of Acoustic Metamaterial Panels (STransLAMP) - An open-source code on *Github*"
+title: "Estimation of Sound Transmission Loss of Acoustic Metamaterial Panels (STransLAMP) - An open-source code"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
