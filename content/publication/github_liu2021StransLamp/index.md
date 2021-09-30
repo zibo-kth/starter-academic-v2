@@ -1,5 +1,5 @@
 ---
-title: "Estimation of Sound Transmission Loss of Acoustic Metamaterial Panels (STransLAMP) - An open-source code"
+title: "Estimation of Sound Transmission Loss of Acoustic Metamaterial Panels (STransLAMP) - An open-source code on *Github*"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -25,16 +25,17 @@ publishDate: "2021-05-18T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Journal of Mechanical Sciences*
+publication: On *GitHub*
 publication_short: In *International Journal of Mechanical Sciences*
 
-abstract: This paper investigates the suppression of vibration and sound radiation of a sandwich plate through the use of periodic design. A periodic sandwich plate is constructed and its dispersion relation is calculated. The vibration and sound radiation properties of the periodic sandwich plate are studied. Via the comparison of the periodic and bare sandwich plate, the effects of the periodic design on the vibration and sound radiation are analysed. Further, to know the sound radiation properties better, sound radiation efficiency of the periodic and bare sandwich plates is compared. In addition, the effects of the boundary conditions on the properties of the periodic sandwich plate are analysed. The numerical results demonstrate that the vibration and sound radiation are greatly suppressed over the stop band of the periodic sandwich plate. The suppression can also be obtained in part of pass bands. It is also shown that the periodic design can be an effective method for the reduction of the sound radiation efficiency. The suppression for the vibration and sound is greater than that caused by only increasing the mass of the plate in the designing frequency range.
+abstract: Estimation of Sound Transmission Loss of Acoustic Metamaterial Panels.
 
 
 # Summary. An optional shortened abstract.
-summary: Effects of periodic design on vibration and sound of a sandwich plate are studied. Reasons for the improvement on acoustic properties are expounded. Effects of boundary conditions on vibration and sound radiation are analysed. Vibration, sound radiation and radiation efficiency are reduced in multi ranges.
+summary: Estimation of Sound Transmission Loss of Acoustic Metamaterial Panels.
 
-tags: []
+
+tags: [Acoustic Metamaterials]
 
 # Display this page in the Featured widget?
 featured: true
