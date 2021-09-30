@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Publications (Thesis, Scientific papers & Open-source code)
-subtitle: ""
+title: Publications
+subtitle: "Thesis, Scientific papers & Open-source code"
 
 content:
   # Page type to display. E.g. post, talk, publication...
