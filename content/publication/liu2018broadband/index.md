@@ -35,7 +35,7 @@ abstract: A new design for locally resonant metamaterial sandwich plates is prop
 # Summary. An optional shortened abstract.
 summary: A new design for locally resonant metamaterial sandwich plates is proposed in this paper for noise insulation engineering applications. The proposed metamaterial sandwich plate combines improved acoustic insulation properties, while maintaining the lightweight nature of the sandwich plate and its good static properties.
 
-tags: []
+tags: [Acoustic Metamaterials, Sound transmission loss， Finite Element method, Sandwich Structures]
 
 # Display this page in the Featured widget?
 featured: true
