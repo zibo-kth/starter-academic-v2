@@ -41,7 +41,7 @@ experience:
     description: 
 
         
-  - title: Postgraduate researcher (*i.e.*, PhD student) in Acoustics
+  - title: Postgraduate researcher (PhD student) in Acoustics
     company: The Marcus Wallenberg Laboratory for Sound and Vibration Research (MWL), Department of Aeronatical and Vechicle Engineering (Now Department of Engineering Mechanics ), KTH Royal Institute of Technology
     company_url: 'https://www.kth.se/en/2.14290/ave/avd/mwl'
     location: 
